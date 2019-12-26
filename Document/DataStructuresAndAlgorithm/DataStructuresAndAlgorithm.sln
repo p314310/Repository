@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.960
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructuresAndAlgorithm", "DataStructuresAndAlgorithm\DataStructuresAndAlgorithm.csproj", "{2CDA31E4-9864-4EA0-807B-A43318A5C41F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtificialIntelligence", "..\ArtificialIntelligence\ArtificialIntelligence.csproj", "{B170EBA3-AAB5-471B-AC41-BDB9DABB380C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2CDA31E4-9864-4EA0-807B-A43318A5C41F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CDA31E4-9864-4EA0-807B-A43318A5C41F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CDA31E4-9864-4EA0-807B-A43318A5C41F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B170EBA3-AAB5-471B-AC41-BDB9DABB380C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B170EBA3-AAB5-471B-AC41-BDB9DABB380C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B170EBA3-AAB5-471B-AC41-BDB9DABB380C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B170EBA3-AAB5-471B-AC41-BDB9DABB380C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
